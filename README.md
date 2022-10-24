@@ -1,4 +1,4 @@
-# Gun Trends in U.S.
+# Gun Trends in the United States.
 Investigated gun registration trends in the U.S. between (1999-2016).
 ## Introduction
 
