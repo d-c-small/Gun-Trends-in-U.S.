@@ -17,7 +17,7 @@ In conclusion, I investigated three questions regarding gun trends in the U.S. b
 
    *3.) Are there any factors associated with higher gun registrations per capita based on census data?*
 
-### Between the years (1999-2016), have background checks for gun registrations increased or decreased.
+### Between the years (1999-2016), have background checks for gun registrations increased or decreased?
 
 Overall, there has been a significant increase in gun registration growth in the U.S. between (1999-2016). In 1999, there was a total of 9,038,315 background checks completed for gun registrations compared to 2016 with a total of 27,405,549 background checks completed.
 
