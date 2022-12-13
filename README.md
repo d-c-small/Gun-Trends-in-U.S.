@@ -59,9 +59,9 @@ Below is a table overview of those correlation coefficients and p-values.
 
 ![table](https://user-images.githubusercontent.com/100544166/207417832-5418c107-e81c-452d-83b1-2770ba978713.png)
 
-As shown in the table, there are no correlations between gun registration growth and either population growth or race demographics.
+As shown in the table, there are no statistically significant correlations between gun registration growth and either population growth or race demographics.
 
-The scatter plots below, also affirm that there is no correlation between gun registration growth and either population or race demographics.
+The scatter plots below, also affirm that there are no statistically significant correlations between gun registration growth and either population or race demographics.
 
 ![image](https://user-images.githubusercontent.com/100544166/207416571-d542f4b1-d41f-4f51-83aa-65da5367d401.png)
 ![image](https://user-images.githubusercontent.com/100544166/207416626-368f9a9a-6f47-410a-a33a-69ffd5b56507.png)
