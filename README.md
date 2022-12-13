@@ -19,7 +19,7 @@ In conclusion, I investigated three questions regarding gun trends in the U.S. b
 
 ### Between the years (1999-2016), have background checks for gun registrations increased or decreased?
 
-Overall, there has been a significant increase in gun registration growth in the U.S. between (1999-2016). In 1999, there was a total of 9,038,315 background checks completed for gun registrations compared to 2016 with a total of 27,405,549 background checks completed.
+Overall, there has been a significant increase in gun registration growth in the U.S. between (1999-2016). In 1999, there was a total of 9,038,315 background checks completed for gun registrations compared to 2016 with a total of 27,405,549 background checks completed. This is about a 33% increase from 1999 to 2016.
 
 This increase is shown in the dataframe and line graph below:
 ![image](https://user-images.githubusercontent.com/100544166/197529498-f570b34c-8fd6-4edd-8adb-b61a9011ca41.png)
