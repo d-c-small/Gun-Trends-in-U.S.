@@ -51,18 +51,22 @@ Finally, I got the percent increase for each state between the years 1999 and 20
 
 ### Are there any factors associated with higher gun registrations per capita based on census data?
 
-I joined the FBI and Census datframes together in an effort to find any correlations between gun registration growth and population growth or race demographics per state.
+I joined the FBI and Census dataframes together in an effort to find any correlations between gun registration growth and either population growth or race demographics per state.
  
-The joined dataframe appeared to show there is no correlation between gun registration growth and population growth or any race demographics.
- 
-The 4 scatter plots below compare 'Gun Registration Growth' to 'Population Growth', 'White only (not Hispanic or Latino)', Hispanic or Latino', and 'Black or African American'. The scatter plots affirmed that there is no correlation between gun registration growth and either population or race demographics.
+I conducted statistical analysis to obtain Pearson's correlation coefficients and p-values for 'Gun Registration Growth' compared to 'Population Growth', 'White only (not Hispanic or Latino)', Hispanic or Latino', and 'Black or African American' demographics.
 
-![image](https://user-images.githubusercontent.com/100544166/197531585-7125d14f-1038-4acc-b773-320aaeed43af.png)
+Below is a table overview of those correlation coefficients and p-values.
 
-![image](https://user-images.githubusercontent.com/100544166/197531630-f29527cd-d04f-4c47-9847-596ccb30b3e3.png)
+![image](https://user-images.githubusercontent.com/100544166/207416378-b8b23bc7-b524-4149-b900-c440b37c8aa6.png)
 
-![image](https://user-images.githubusercontent.com/100544166/197531662-2208ff41-6f70-4e3e-8efc-633d4054cace.png)
+As shown in the table, there are no correlations between gun registration growth and either population growth or race demographics.
 
-![image](https://user-images.githubusercontent.com/100544166/197531700-cd36966a-0b1a-4187-827f-55ebea50260a.png)
+The scatter plots below, also affirm that there is no correlation between gun registration growth and either population or race demographics.
+
+![image](https://user-images.githubusercontent.com/100544166/207416571-d542f4b1-d41f-4f51-83aa-65da5367d401.png)
+![image](https://user-images.githubusercontent.com/100544166/207416626-368f9a9a-6f47-410a-a33a-69ffd5b56507.png)
+![image](https://user-images.githubusercontent.com/100544166/207416660-1b3fe453-0320-41b4-b1fb-6c20ad6fa555.png)
+![image](https://user-images.githubusercontent.com/100544166/207416692-c29d2b66-df0b-4208-bc8a-0343f64bd27e.png)
+
 
 
