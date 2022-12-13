@@ -57,7 +57,7 @@ I conducted statistical analysis to obtain Pearson's correlation coefficients an
 
 Below is a table overview of those correlation coefficients and p-values.
 
-![image](https://user-images.githubusercontent.com/100544166/207416378-b8b23bc7-b524-4149-b900-c440b37c8aa6.png)
+![image](https://user-images.githubusercontent.com/100544166/207416947-4bfa6f17-c295-4cc7-b8b3-f24caf0b0bc8.png)
 
 As shown in the table, there are no correlations between gun registration growth and either population growth or race demographics.
 
